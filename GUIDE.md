@@ -1,5 +1,5 @@
 # Mine-imator 日本語化ガイド
-![img1](https://github.com/harujun214/mineimator-jp/raw/main/img/img1.png)
+![img1](https://github.com/harujun214/mineimator-jp/raw/main/img/img1.png)https://github.com/harujun214/mineimator-jp/raw/main/img/img1.png
 ## 目次
 * [前提](#前提)
 * [導入方法](#導入方法)
@@ -13,12 +13,12 @@ Mine-imatorでは基本**TrueTypeのみ対応**ですが、 **.otf** のフォ�
 <details>
 <summary>例：Noto Sans JP</summary>
   
-  「 [Noto Sans JP - Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP) 」にアクセスし、右上にある **Download Family** をクリックします。  
-  ![nsjp1](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp1.png)  
-  ダウンロードできたら、圧縮ファイルをダブルクリックして中に入ってる「 **NotoSansJP-Medium** 」を取り出します。  
-  ![nsjp2](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp2.png)  
-  フォント形式が **otf** になっているので、 **ttf** に変えます。ファイルが使えなくなる可能性がありますと出ますが、「はい」をクリックします。  
-  ![nsjp3](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp3.png)  
+「 [Noto Sans JP - Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP) 」にアクセスし、右上にある **Download Family** をクリックします。  
+![nsjp1](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp1.png)  
+ダウンロードできたら、圧縮ファイルをダブルクリックして中に入ってる「 **NotoSansJP-Medium** 」を取り出します。  
+![nsjp2](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp2.png)  
+フォント形式が **otf** になっているので、 **ttf** に変えます。ファイルが使えなくなる可能性がありますと出ますが、「はい」をクリックします。  
+![nsjp3](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp3.png)  
   
 </details>
 
