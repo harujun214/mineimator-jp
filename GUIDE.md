@@ -13,16 +13,32 @@ Mine-imatorでは基本**TrueTypeのみ対応**ですが、 **.otf** のフォ�
 <details>
 <summary>例：Noto Sans JP</summary>
   
-  「 [Noto Sans JP - Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP) 」にアクセスし、右上にある **Download Family** をクリックします。
-  ![nsjp1](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp1.png)
-  ダウンロードできたら、圧縮ファイルをダブルクリックして中に入ってる「 **NotoSansJP-Medium** 」を取り出します。
-  ![nsjp2](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp2.png)
-  フォント形式が **otf** になっているので、 **ttf** に変えます。ファイルが使えなくなる可能性がありますと出ますが、「はい」をクリックします。
-  ![nsjp3](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp3.png)
+  「 [Noto Sans JP - Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP) 」にアクセスし、右上にある **Download Family** をクリックします。  
+  ![nsjp1](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp1.png)  
+  ダウンロードできたら、圧縮ファイルをダブルクリックして中に入ってる「 **NotoSansJP-Medium** 」を取り出します。  
+  ![nsjp2](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp2.png)  
+  フォント形式が **otf** になっているので、 **ttf** に変えます。ファイルが使えなくなる可能性がありますと出ますが、「はい」をクリックします。  
+  ![nsjp3](https://github.com/harujun214/mineimator-jp/raw/main/img/nsjp3.png)  
   
 </details>
 
 ## 導入方法
-Mine-imatorがインストールしてあるフォルダーを開きます。デフォルトは **C:/Users/(ユーザ名)/Mine-imator** になります。
+Mine-imatorがインストールしてあるフォルダーを開きます。デフォルトは **C:/Users/(ユーザ名)/Mine-imator** になります。  
 
-そのフォルダ内の **Data** > **Languages** フォルダーを開き、先程ダウンロードしたファイルを移動させます。上書きの確認が表示された場合は「**ファイルを置き換える**」を選択します。
+
+
+そのフォルダ内の **Data** > **Languages** フォルダーを開き、先程ダウンロードしたファイルを移動させます。上書きの確認が表示された場合は「**ファイルを置き換える**」を選択します。  
+
+移動したら、Mine-imatorを起動させます。最初の段階では設定に飛べないので **New** > **Create** で新規作成を行います。  
+
+上のツールバーにある歯車マークをクリックして設定を開きます。
+
+その中の **Interface** をクリックします。 **Font: Default** の下にあるフォルダマークをクリックして、日本語の**①フォント**に切り替えます。
+
+フォントが変わったら、**②言語**を **japanese.milanguage** を選択します。
+
+これで日本語化の完了です。文字化けせず日本語表記になっていれば問題ありませんが、それでもメニューの文字が見切れてしまうなどの弊害があるかもしれません。その際にはパネルのドッキングや幅寄せなどしてみてください。
+
+これは余談ですが、単体ブロックなどを生成する時の検索機能も日本語に対応してるので、作業効率は大幅に上がると思います。ブロックやアイテムの名前などは、基本的にJava版のMinecraftに合わせて日本語に直してます。
+
+英語に戻したい時は、最初に言語を english.milanguage に設定し、Font: (パス名)の下の矢印マーク(フォルダマークの隣)をクリックします。あとは、Mine-imatorを再起動することで英語表記になり、初期設定のフォントに戻ります。
