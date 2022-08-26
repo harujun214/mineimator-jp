@@ -1,2 +1,2 @@
-# milanguage-ja
+# mineimator-jp
 Mine-imator Japanese patch
