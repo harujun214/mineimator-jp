@@ -21,7 +21,7 @@ Pre-release版のMine-imatorを日本語表記にさせます。基本は正式�
 
 <a href="https://firestorage.jp/download/e98e20a18850f1a97377e93f1b04da62f8bd4b6c" target="_blank"><b>日本語化ファイルをダウンロード（mi2pre5-jp.zip）</b></a>
 
-<details><summary><strong>新UIの日本語化の設定方法</strong></summary>
+<details markdown=1><summary markdown="span"><strong>新UIの日本語化の設定方法</strong></summary>
 
 1. 解凍後に出てきた**Data**フォルダを**Mine-imatorフォルダ**内に移動します。移動させた時に「既に同じ名前のファイルが存在します」というダイアログが出ますが、**ファイルを置き換える**を選択してください。
 ![set1](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set1.png)
