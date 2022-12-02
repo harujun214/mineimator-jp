@@ -1,1 +1,6 @@
 markdown: CommonMarkGhPages
+commonmark:
+ extensions:
+   - autolink
+   - strikethrough
+   - table
