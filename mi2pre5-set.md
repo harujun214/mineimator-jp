@@ -1,5 +1,5 @@
 # Pre-release版の日本語化配布所
-[[戻る](/mineimator-jp/mi2pre-jp/)]
+[[戻る](/mineimator-jp/mi2pre-jp)]
 ## 新UIの日本語化の設定方法
 1. 解凍後に出てきた**Data**フォルダを**Mine-imatorフォルダ**内に移動します。移動させた時に「既に同じ名前のファイルが存在します」というダイアログが出ますが、**ファイルを置き換える**を選択してください。
 ![set1](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set1.png)
