@@ -1,6 +1,3 @@
-markdown: CommonMarkGhPages
-commonmark:
- extensions:
-   - autolink
-   - strikethrough
-   - table
+markdown: kramdown
+kramdown:
+  parse_block_html: true
