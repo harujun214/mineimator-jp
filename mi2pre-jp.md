@@ -21,7 +21,7 @@ Pre-release版のMine-imatorを日本語表記にさせます。基本は正式�
 
 **[日本語化ファイルをダウンロード（mi2pre5-jp.zip）](https://firestorage.jp/download/10b41b88ce1b0fb7f57bc9fb480e83e40cb457c8)**
 
-新UIの日本語化の手順は[**こちら**](/mineimator-jp/mi2pre5-set/)をご覧ください。
+新UIの日本語化の手順は[**こちら**](/mineimator-jp/mi2pre5-set)をご覧ください。
 
 ---
 <p align="right"><a href="<a href="https://twitter.com/intent/follow?screen_name=harujun214">@harujun214</a></p>
