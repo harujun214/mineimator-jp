@@ -4,7 +4,7 @@ Pre-release版のMine-imatorを日本語表記にさせます。※新機能が�
 - Windows以外での動作は未検証。  
 - **インストール先は別の場所にする。** C:/Mine-imatorがおすすめです。  
 - IMEが無効になる（半角/全角キーを押しても日本語に切り替えることができない）バグがあります。  
-  <sup>日本語で入力したい場合は、メモ帳などに打ち込んでコピペしてください。同じくIMEを使う方がバグ報告(<a href="https://www.mineimatorforums.com/index.php?/topic/89221-mine-imator-20-pre-release-4-cannot-input-any-chinese-characters-for-the-material-name" target="_blank">*1</a>,<a href="https://www.mineimatorforums.com/index.php?/topic/90174-cannot-directly-input-non-english-characters-in-mine-imator-20-pre-5" target="_blank">*2</a>)されているので、そのうち改善されると思います。</sup>
+  - 日本語で入力したい場合は、メモ帳などに打ち込んでコピペしてください。  
 - 新UIでは今後も仕様変更が行われる可能性があるため、**[プロジェクトデータの移行は非推奨。](https://twitter.com/NimiKitamura/status/1595817183896080386)**  
 - 日本語化された状態でMine-imatorのバグ報告は控えてください。  
 
@@ -13,7 +13,7 @@ Pre-release版のMine-imatorを日本語表記にさせます。※新機能が�
 
 <a href="https://firestorage.jp/download/10b41b88ce1b0fb7f57bc9fb480e83e40cb457c8" target="_blank"><b>日本語化ファイルをダウンロード（mi2pre4-jp.zip）</b></a>
 
-設定方法は正式版と同じ手順です。[note記事](https://note.com/harujun214/n/n70d7a7e397c6)をご覧ください。
+設定方法は正式版と同じ手順です。[note記事](https://note.com/harujun214/n/n70d7a7e397c6#57f84616-8f15-4a5e-a5c1-2a0490a42984)をご覧ください。
 
 ## [Mine-imator 2.0 Pre-release 5](https://www.mineimatorforums.com/index.php?/topic/89976-mine-imator-20-pre-release-5-phase-2/)
 ![img2](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/img2.png)
