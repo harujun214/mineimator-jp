@@ -2,9 +2,9 @@
 Pre-release版のMine-imatorを日本語表記にさせます。※新機能が試せる反面、動作に関しては不安定な場合があります。その辺りを理解した上で利用してください。
 ## Pre-release版の注意点
 - Windows以外での動作は未検証。  
-- **インストール先は別の場所にする。** C:\Mine-imatorがおすすめです。  
+- **インストール先は別の場所にする。** `C:\Mine-imator`がおすすめです。  
 - IMEが無効になる（半角/全角キーを押しても日本語に切り替えることができない）バグがあります。  
-  - 日本語で入力したい場合は、メモ帳などに打ち込んでコピペしてください。  
+  - 日本語で入力したい場合は、メモ帳などに打ち込んでコピペしてください。
 - 新UIでは今後も仕様変更が行われる可能性があるため、**[プロジェクトデータの移行は非推奨。](https://twitter.com/NimiKitamura/status/1595817183896080386)**  
 - 日本語化された状態でMine-imatorのバグ報告は控えてください。  
 
@@ -26,7 +26,7 @@ Pre-release版のMine-imatorを日本語表記にさせます。※新機能が�
 ![set1](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set1.png)
 2. Mine-imatorを起動します。起動したら「**New Project**」をクリックして新しいプロジェクトを作ります。
 ![set2](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set2.png)
-3. 画面左上のメニューの**Edit**タブから「**Preferences...**」をクリックして環境設定を開きます。
+3. 画面左上のメニューの`Edit`タブから「**Preferences...**」をクリックして環境設定を開きます。
 ![set3](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set3.png)
 4. 新しく表示されるパネルの中から「**INTERFACE**」を選択してください。「**Language**」を選択して、「**日本語**」に変更します。
 ![set4](https://raw.githubusercontent.com/harujun214/mineimator-jp/master/img/set4.png)
